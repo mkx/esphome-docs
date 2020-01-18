@@ -11,8 +11,8 @@ The ``sun`` component allows you to track the sun's position in the sky.
 
     # Example configuration entry
     sun:
-      latitude: 48.8584°
-      longitude: 2.2945°
+      latitude: 48.8584
+      longitude: 2.2945
 
     # At least one time source is required
     time:
@@ -32,8 +32,8 @@ Automation:
 
     # Example configuration entry
     sun:
-      latitude: 48.8584°
-      longitude: 2.2945°
+      latitude: 48.8584
+      longitude: 2.2945
 
       on_sunrise:
         - then:
